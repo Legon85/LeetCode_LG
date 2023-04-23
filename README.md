@@ -1,1 +1,1 @@
-# LeetCode_LG
+# This is my project about solution tasks on LeetCode
